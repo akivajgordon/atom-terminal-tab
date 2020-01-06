@@ -1,5 +1,7 @@
-## Unreleased
+## 0.6.0
 
+* Updated to Xterm 4.2.0.
+* Switched to node-pty-prebuilt-multiarch (thanks @the-j0k3r, @ozno).
 * Updated CircleCI configuration for CircleCI 2.0.
 
 ## 0.5.7
